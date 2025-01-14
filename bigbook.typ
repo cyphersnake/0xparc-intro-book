@@ -41,7 +41,7 @@
 #chapter("src/fs.typ")
 #chapter("src/snark-takeaways.typ")
 
-#part[Another STARK: GROTH-16]
+#part[Another SNARK: GROTH-16]
 #chapter("src/ipa.typ")
 #chapter("src/groth16.typ")
 
